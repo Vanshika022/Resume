@@ -90,10 +90,11 @@ a:hover{
     font-size: 1.5rem;
 }
 .project-item{
-    float: right;
+    float:right;
     margin: 30px 0; 
 }
 .project-item img{ 
+    border: 2px solid black;
     width: 300px;
     float:left;
     margin-right: 50px;
